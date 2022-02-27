@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloody fight at sea on Monday 16 August, neere Plimouth: between Sir George Ayscue and the Holland fleet. From one a clock in the afternoone, untill eight a clock at night. With a list of the particulars of the losse on both sides.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85567</idno>
+            <idno type="STC">Wing G1642</idno>
+            <idno type="STC">Thomason E674_7</idno>
+            <idno type="STC">ESTC R207194</idno>
+            <idno type="EEBO-CITATION">99866263</idno>
+            <idno type="PROQUEST">99866263</idno>
+            <idno type="VID">118530</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85567)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118530)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E674[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloody fight at sea on Monday 16 August, neere Plimouth: between Sir George Ayscue and the Holland fleet. From one a clock in the afternoone, untill eight a clock at night. With a list of the particulars of the losse on both sides.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson dwelling in Smithfield neer Hosier Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August. 20.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118530:1" rendition="simple:additions"/>
+            <p>A GREAT AND Bloody Fight at Sea ON Monday 16 Auguſt, neere Plimouth: Between Sir GEORGE AYSCUE and the Holland FLEET.</p>
+            <p>From one a Clock in the afternoone, untill eight a clock at night.</p>
+            <p>WITH A Liſt of the particulars of the loſſe on both SIDES.</p>
+            <p>
+               <hi>LONDON,</hi> 
+               <add>August .20.</add> Printed for <hi>Robert Ibbitſon</hi> dwelling in Smith<g ref="char:EOLhyphen"/>field neer Hoſier Lane. 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118530:2"/>
+            <pb n="1" facs="tcp:118530:2"/>
+            <head>A Great and bloody Fight at Sea on Monday 16 <hi>Auguſt</hi> 1652. neer <hi>Plimouth.</hi>
+            </head>
+            <div type="letter">
+               <head>A Letter from <hi>Plimouth.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">O</seg>N Sunday Morning laſt, being the 15 of this preſent <hi>Auguſt,</hi> Sir <hi>George Ayſcue</hi> ſet ſaile to Sea.</p>
+               <p>Yeſterday being Monday the 16 of <hi>Auguſt,</hi> he diſcovered the <hi>Hollanders,</hi> and about one of the clock that day he met with a fleet of theirs, conſiſting of 60 ſaile of men of war, and 25 Merchants men.</p>
+               <p>Sir <hi>George Ayſcues</hi> fleet conſiſted of 41 with
+<pb n="2" facs="tcp:118530:3"/>which he charged the Hollanders whole fleet and made a ſtout fight.</p>
+               <p>Sir <hi>Geor. Ayſcue</hi> charged them quite through, And not being able to go to the windward of all, received 40 broad ſides, and after goe away. Then Sir <hi>George Ayſcue</hi> charged them againe, and made another furious aſſault.</p>
+               <p>It is ſuppoſed that we have ſunke their Rear Admirall; they (if not) will have much adoe to ſave her.</p>
+               <p>The fight was extream hot, but no board<g ref="char:EOLhyphen"/>ing either of other. We ſuppoſe the Hollan<g ref="char:EOLhyphen"/>ders loſs muſt needs be very great, for they were extreamly torne with our bullets, and we have great loſſe alſo.</p>
+               <p>Capt Liſle, a precious ſweet commander, is ſore wounded and almoſt dead. Cap Pack that excellent ſtout Sea-man, hath his leg ſhot off. Night approaching the fight ceaſed, and in the night both the fleets lay ſtill, ha<g ref="char:EOLhyphen"/>ving both of them their lights out.</p>
+               <p>On this morning being the 17 inſtant, we diſcovered the Enemy about 4 leagues off.</p>
+               <p>Hereupon a Councell of War was to con<g ref="char:EOLhyphen"/>ſult what to doe, in further proceedings a<g ref="char:EOLhyphen"/>gainſt
+<pb n="3" facs="tcp:118530:3"/>the enemy, and it was unanimouſly reſolved by the Councel of war to ingage them againe. Hereupon preparation was made, our fleet preſently ſailed, and ſtood up towards them.</p>
+               <p>About 12 a clock this preſent Tueſday, 17 Auguſt it is beleeved there might be an ingagement.</p>
+               <p>The Lord direct them and ſtand by them, to deliver and ſupport our friends, and I doubt not but the Lord will perfect that work he hath thus far hitherto triumphant<g ref="char:EOLhyphen"/>ly carried on.</p>
+               <p>Our men called upon God before they ingaged, the Dutch drunk ſoundly to make them fight, ſtrong drink was given to their men as their cuſtome is, to raiſe up a courage in them to fight the moſt deſperately.</p>
+               <p>The Eaſt India Fleete with thoſe other ſhips ſtay until theſe combuſtions be a little over, or that they can have a ſure convoy, for without doubt the mouthes of the Dutch water at them. I beleeve by the next you will heare of a greater ingagement then this.</p>
+               <closer>
+                  <dateline>Plimouth <date>17. Augſt, 1652.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="4" facs="tcp:118530:4"/>
+               <head>Another Letter from <hi>Plimouth.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>UPon diſcovery of the Dutch Fleet yeſterday about one a clocke, a Councell of War was preſently called, and it was reſolved to fight them preſently if they would stand, and accordingly, Sir <hi>George Ayſcue</hi> ſailed and put up towards them.</p>
+               <p>About <hi>4</hi> a clock laſt night, Sir <hi>George Ayſ<g ref="char:EOLhyphen"/>cue</hi> came up cloſe to them and engaged, and the fight was very hot. Our men fought all stoutly, as ever was knowne, we had loſſe of ſome precious men, but without doubt the Dutch ſustained a ve<g ref="char:EOLhyphen"/>ry conſiderable loſſe. The fight continued about <hi>4</hi> houres, ſo that about <hi>8</hi> a clock it growing dark, they were forced to leave off.</p>
+               <p>The <hi>George</hi> and the <hi>Bonaventure</hi> being much ſhattered, and ready to ſinke came in hither, and are mending.</p>
+               <p>Cap. <hi>Packs</hi> Legge is ſhot off in the fight, and Cap. <hi>Liſle</hi> hath a wound in his ſhoulder, that wee fear will prove mortall.</p>
+               <p>The Admirall and the reſt fought with great valour and gallantry, but wee have ſuſtained loſs,
+<pb n="5" facs="tcp:118530:4"/>though I beleeve not ſo much as the <hi>Dutch.</hi>
+               </p>
+               <p>The Admirall loſt in her <hi>12</hi> men in this fight and received <hi>60</hi> ſhot in her Hull, And ſo divers others have received loſſe, and wee have many wounded men.</p>
+               <p>Sir <hi>George Ayſcue</hi> kept as much as he could in ken of them all night, and is reſolved, if poſsi<g ref="char:EOLhyphen"/>ble, to engage them this day.</p>
+               <p>And accordingly <hi>500</hi> men, big with courage and ſtoutneſſe, are gone in ſmall ſhips to recruit our fleet with men. And ſo they are gone towards the Enemy.</p>
+               <p>It being now about noon is the time wee expect about which they may bee engaged.</p>
+               <p>The number of the Dutch that engaged yeſter<g ref="char:EOLhyphen"/>day with Sir <hi>George Ayſcue,</hi> were <hi>55</hi> men of Warre, we were but <hi>41.</hi>
+               </p>
+               <p>Our Admirall, Vice Admirall and Rear Admirall, with about five or ſix others, broke through their whole fleet, ſo as the <hi>25</hi> Merchants men ran away to the coaſts of <hi>France.</hi>
+               </p>
+               <p>What the event of this day will bee the Lord a<g ref="char:EOLhyphen"/>lone knows, but our truſt is in the Lord of Hoaſts, whom we hope is with us.</p>
+               <pb n="8" facs="tcp:118530:5"/>
+               <p> 
+                  <hi>But the next opportunity, I ſhal (which I beleeve will be within few houres) certifie you what I ſhal further heare of the ſucceſſe or event.</hi>
+               </p>
+               <closer>
+                  <dateline>Plimouth <date>17 Aug. <hi>1652.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+         <div type="list">
+            <list>
+               <head>A Liſt of the particulars of the great Fight be<g ref="char:EOLhyphen"/>tween Sir <hi>George Ayſcue</hi> and the <hi>Hol<g ref="char:EOLhyphen"/>landers</hi> on Monday 16 Aug. 1652.</head>
+               <item>41. Engliſh ſhips fought with 55. of the Hollanders,</item>
+               <item>The Dutch Reare Admiral ſunk.</item>
+               <item>25 ſhips fled to the coaſts of France.</item>
+               <item>Many of the Dutch killed, and great loſſe on their part.</item>
+            </list>
+            <div type="part">
+               <head>Loſſe on the Parliaments Fleet.</head>
+               <list>
+                  <item>The George neare ſinking, but recovered to Plimouth.</item>
+                  <item>The Bonaventure neer ſinking, but recover<g ref="char:EOLhyphen"/>ed to Plimouth.</item>
+                  <item>Cap. Liſle wounded in the ſhoulder.</item>
+                  <item>Cap. Packs leg ſhot off.</item>
+                  <item>60 ſhot in the Admirals Hull.</item>
+                  <item>12. men ſtain in the Admiral.</item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
